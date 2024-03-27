@@ -112,5 +112,28 @@
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Wallpaper-9.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Wallpaper.png"
     ]
+  },
+  {
+    "name": "Colors",
+    "images": [
+      "#0B9FCD",
+      "#7597DF",
+      "#9C81DE",
+      "#B157DD",
+      "#C86F8F",
+      "#DA887C",
+      "#DB9A7A",
+      "#DEB679",
+      "#E1C57B",
+      "#E4E192",
+      "#D3DA8D",
+      "#A9C588",
+      "#A2AE9D",
+      "#93A4AB",
+      "#A498A4",
+      "#A5A198",
+      "#EFEFEF",
+      "#0E0E0E"
+    ]
   }
 ]
