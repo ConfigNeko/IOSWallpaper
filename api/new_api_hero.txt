@@ -1,0 +1,105 @@
+[
+  {
+    "name": "iPhone 16 Promax",
+    "images": [
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453966.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453969.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453970.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453972.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453974.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453977.png",
+"https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/iPhone%2016_Pink.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453979.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453981.png"
+    ]
+  },
+  {
+    "name": "Super Hero",
+    "images": [
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453966.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453969.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453970.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453972.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453974.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453977.png",
+"https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/iPhone%2016_Pink.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453979.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453981.png"
+    ]
+  },
+  {
+    "name": "Anime",
+    "images": [
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453966.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453969.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453970.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453972.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453974.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453977.png",
+"https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/iPhone%2016_Pink.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453979.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453981.png"
+    ]
+  },
+ {
+    "name": "Emoji",
+    "images": [
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_1.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_2.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_3.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_4.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_5.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_6.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_7.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_8.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_9.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_10.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_11.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_12.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_13.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_14.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_15.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_16.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_17.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_18.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_19.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/emoji/Emoji_20.png"
+    ]
+  },
+  {
+    "name": "Weather",
+    "images": [
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather1.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather2.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather3.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather4.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather5.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather6.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather7.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather8.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather9.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather10.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather11.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather12.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather13.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather14.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather15.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather16.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather17.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather18.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather19.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather20.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather21.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather22.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather23.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather24.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather25.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather26.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather27.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather28.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather29.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Weather/Weather30.png"
+    ]
+  }
+
+]
