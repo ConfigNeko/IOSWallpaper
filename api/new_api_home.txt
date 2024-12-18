@@ -47,7 +47,7 @@
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/hero/27.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/hero/28.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/hero/29.png",
-      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/hero/30.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/hero/30.png"
    ]
   },
   {
@@ -93,7 +93,7 @@
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/anime/37.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/anime/38.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/anime/39.png",
-      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/anime/40.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/anime/40.png"
     ]
   },
  {
