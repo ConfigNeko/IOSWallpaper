@@ -1,6 +1,6 @@
 [
   {
-    "name": "iPhone 16 Promax",
+    "name": "iPhone 16 Pro Max",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453966.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453969.png",
@@ -14,7 +14,7 @@
     ]
   }, 
   {
-    "name": "iPhone 15 Promax",
+    "name": "iPhone 15 Pro Max",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone15/image.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone15/image-1.png",
@@ -39,7 +39,7 @@
     ]
   }, 
   {
-    "name": "iPhone 14 Promax",
+    "name": "iPhone 14 Pro Max",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone14/image.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone14/image-1.png",
