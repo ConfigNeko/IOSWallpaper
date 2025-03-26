@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "name": "Aesthetic",
+        "listFiles": [
+            {
+                "id": "Aesthetic1",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic1\\Group 481762.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic1\\Group 481897.png"
+                ]
+            },
+            {
+                "id": "Aesthetic2",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic2\\Group 481767.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic2\\Group 481896.png"
+                ]
+            },
+            {
+                "id": "Aesthetic3",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic3\\Group 481769.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic3\\Group 481899.png"
+                ]
+            },
+            {
+                "id": "Aesthetic4",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic4\\Group 481768.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Aesthetic\\Aesthetic4\\Group 481901.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Anime",
+        "listFiles": [
+            {
+                "id": "Anime1",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime1\\Group 481762.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime1\\Group 481897.png"
+                ]
+            },
+            {
+                "id": "Anime2",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime2\\Group 481767.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime2\\Group 481896.png"
+                ]
+            },
+            {
+                "id": "Anime3",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime3\\Group 481769.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime3\\Group 481899.png"
+                ]
+            },
+            {
+                "id": "Anime4",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime4\\Group 481768.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Anime\\Anime4\\Group 481901.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Elegant",
+        "listFiles": [
+            {
+                "id": "Elegant1",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant1\\Group 481762 (1).png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant1\\Group 481907.png"
+                ]
+            },
+            {
+                "id": "Elegant2",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant2\\Group 481767.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant2\\Group 481903.png"
+                ]
+            },
+            {
+                "id": "Elegant3",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant3\\Group 481769.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant3\\Group 481905.png"
+                ]
+            },
+            {
+                "id": "Elegant4",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant4\\Group 481768.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Elegant\\Elegant4\\Group 481906.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Human",
+        "listFiles": [
+            {
+                "id": "Human1",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human1\\Group 481894.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human1\\Group 481909.png"
+                ]
+            },
+            {
+                "id": "Human2",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human2\\Group 481767.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human2\\Group 481910.png"
+                ]
+            },
+            {
+                "id": "Human3",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human3\\Group 481769.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human3\\Group 481912.png"
+                ]
+            },
+            {
+                "id": "Human4",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human4\\Group 481768.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Human\\Human4\\Group 481911.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Trending",
+        "listFiles": [
+            {
+                "id": "Trending1",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending1\\5c0fc3df5118b22d93c83236b5f11013 1.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending1\\5c0fc3df5118b22d93c83236b5f11013 2.png"
+                ]
+            },
+            {
+                "id": "Trending2",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending2\\Group 481767.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending2\\Group 481896.png"
+                ]
+            },
+            {
+                "id": "Trending3",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending3\\Group 481769.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending3\\Group 481899.png"
+                ]
+            },
+            {
+                "id": "Trending4",
+                "urlFile": [
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending4\\Group 481768.png",
+                    "D:\\Example\\IOSWallpaper\\Themes\\Trending\\Trending4\\Group 481901.png"
+                ]
+            }
+        ]
+    }
+]
