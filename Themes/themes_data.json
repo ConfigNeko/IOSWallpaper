@@ -1,38 +1,38 @@
 [
   {
-    "id": 1,
-    "name": "Aesthetic",
+    "id": 6,
+    "name": "Trending",
     "listFiles": [
       {
-        "id": "Aesthetic1",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/5c0fc3df5118b22d93c83236b5f11013%203.png",
+        "id": "Trending1",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending1/5c0fc3df5118b22d93c83236b5f11013%203.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/Group481762.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/Group481897.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending1/5c0fc3df5118b22d93c83236b5f110131.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending1/5c0fc3df5118b22d93c83236b5f110132.png"
         ]
       },
       {
-        "id": "Aesthetic2",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic2/image%2058-3.png",
+        "id": "Trending2",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/image%2058-3.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic2/Group481767.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic2/Group481896.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/Group481767.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/Group481896.png"
         ]
       },
       {
-        "id": "Aesthetic3",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic3/image%2063.png",
+        "id": "Trending3",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/image%2063.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic3/Group481769.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic3/Group481899.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/Group481769.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/Group481899.png"
         ]
       },
       {
-        "id": "Aesthetic4",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic4/image%2064.png",
+        "id": "Trending4",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/image%2064.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic4/Group481768.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic4/Group481901.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/Group481768.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/Group481901.png"
         ]
       }
     ]
@@ -152,39 +152,39 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Trending",
+    "id": 1,
+    "name": "Aesthetic",
     "listFiles": [
       {
-        "id": "Trending1",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending1/5c0fc3df5118b22d93c83236b5f11013%203.png",
+        "id": "Aesthetic1",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/5c0fc3df5118b22d93c83236b5f11013%203.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending1/5c0fc3df5118b22d93c83236b5f110131.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending1/5c0fc3df5118b22d93c83236b5f110132.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/Group481762.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/Group481897.png"
         ]
       },
       {
-        "id": "Trending2",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/image%2058-3.png",
+        "id": "Aesthetic2",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic2/image%2058-3.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/Group481767.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/Group481896.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic2/Group481767.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic2/Group481896.png"
         ]
       },
       {
-        "id": "Trending3",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/image%2063.png",
+        "id": "Aesthetic3",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic3/image%2063.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/Group481769.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/Group481899.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic3/Group481769.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic3/Group481899.png"
         ]
       },
       {
-        "id": "Trending4",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/image%2064.png",
+        "id": "Aesthetic4",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic4/image%2064.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/Group481768.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/Group481901.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic4/Group481768.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic4/Group481901.png"
         ]
       }
     ]
