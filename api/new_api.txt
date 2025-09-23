@@ -1,4 +1,35 @@
-[
+[{
+    "name": "iPhone 17 Pro Max",
+    "bg_url": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/card_lockscreen.png",
+    "images": [
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-1.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-2.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-3.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-4.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-5.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-6.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-7.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image-8.png"
+
+    ]
+  },
+  {
+    "name": "iPhone 17",
+    "bg_url": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/card_lockscreen%20(1).png",
+    "images": [
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-1.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-2.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-3.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-4.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-5.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-6.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-7.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-8.png",
+      "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image-9.png"
+    ]
+  },
   {
     "name": "iPhone 16 Pro Max",
     "images": [
