@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "[최초공개] TXT(투모로우바이투게더) - 세계가 불타버린 밤, 우린...(Can't You See Me?) | TOMORROW X TOGETHER Comeback Show",
+    "author": "M2",
     "format_id": "hls-720",
     "thumb": "https://s2.dmcdn.net/v/SEj0p1enUPwggtF9d/x1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x7tz8s3",
@@ -11,6 +12,7 @@
   {
     "id": 2,
     "title": "TWICE \\\"I CAN'T STOP ME\\\" M/V",
+    "author": "M.Lovers",
     "format_id": "hls-720",
     "thumb": "https://s2.dmcdn.net/v/SnoP71eovfJa4rzQY/x1080",
     "stream_url": "https://geo.dailymotion.com/player/xfh28.html?video=x7zgdaf",
@@ -20,6 +22,7 @@
   {
     "id": 3,
     "title": "Hot Official Trailer for A24's Babygirl with Nicole Kidman",
+    "author": "FanReviews",
     "format_id": "hls-1080",
     "thumb": "https://s2.dmcdn.net/v/X65re1e9nmo_Fq59u/x1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x96ktpk",
@@ -29,6 +32,7 @@
   {
     "id": 4,
     "title": "NEW TOP DELTA FORCE HIGHLIGHTS! - EPIC & Funny Moments #40 - Top Gaming Moments",
+    "author": "WinT",
     "thumb": "https://s1.dmcdn.net/v/Z1pMI1eyrM2hbaw2k/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9pvwya",
@@ -38,6 +42,7 @@
   {
     "id": 5,
     "title": "ROSÉ & Bruno Mars - APT. (Official Music Video)",
+    "author": "NoPopCorn",
     "format_id": "hls-1080",
     "thumb": "https://s1.dmcdn.net/v/XDazc1eLauj3j22gd/x1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x97qvza",
@@ -47,6 +52,7 @@
   {
     "id": 6,
     "title": "Billie Eilish - BIRDS OF A FEATHER (Official Music Video)",
+    "author": "NoPopCorn",
     "thumb": "https://s1.dmcdn.net/v/X6K_q1d1HAWsvByNu/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x96m5mc",
@@ -56,6 +62,7 @@
   {
     "id": 7,
     "title": "Top 10 Artists Who Peaked with Their Debut Album",
+    "author": "MsMojo",
     "format_id": "hls-720",
     "thumb": "https://s2.dmcdn.net/v/ZHiga1ezURFk4BLPE/x1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9sd86c",
@@ -65,6 +72,7 @@
   {
     "id": 8,
     "title": "Hayley Williams Says She Might Be Done Making Albums Under Her Name",
+    "author": "Rolling Stone",
     "thumb": "https://s2.dmcdn.net/v/ZHfOa1ezUSQ3_13gp/x1080",
     "format_id": "hls-720",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9scxt0",
@@ -74,6 +82,7 @@
   {
     "id": 9,
     "title": "The 10 Best Call Of Duty Moments Ever | GamesRadar",
+    "author": "GamesRadar",
     "thumb": "https://s1.dmcdn.net/v/YwKBA1ezUTX6MNNri/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9opuiy",
@@ -83,6 +92,7 @@
   {
     "id": 10,
     "title": "Fall Guys: Top 10 Mini Games | GamesRadar",
+    "author": "GamesRadar",
     "thumb": "https://s2.dmcdn.net/v/Z12As1ep5GxnS6qs6/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9prliu",
@@ -101,6 +111,7 @@
   {
     "id": 12,
     "title": "Animation Of The Mars Sample Transfer Robotic Arm In Action",
+    "author": "Space.com",
     "thumb": "https://s1.dmcdn.net/v/ZHjQO1ezUY6AFk30c/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9sdajc",
@@ -110,6 +121,7 @@
   {
     "id": 13,
     "title": "The Last Frontier 3 (2025) First Look Trailer | Dwayne Johnson, Tom Cruise | Concept Trailer",
+    "author": "Netflix",
     "thumb": "https://s2.dmcdn.net/v/ZHgEY1ezJqNm1CERL/x1080",
     "format_id": "hls-720",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9sd0gy",
@@ -119,6 +131,7 @@
   {
     "id": 14,
     "title": "FUBAR | Season 1 Recap | Netflix",
+    "author": "Netflix",
     "thumb": "https://s2.dmcdn.net/v/ZHZYc1ezLcUec5TGm/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9scfc6",
@@ -128,6 +141,7 @@
   {
     "id": 15,
     "title": "5ASIDE: Africa’s Bright Future: Eyes on 2026… but First, AFCON Awaits",
+    "author": "beIN SPORTS USA",
     "thumb": "https://s2.dmcdn.net/v/ZHj1k1ezUb9lh1r5i/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9sd9bi",
@@ -137,6 +151,7 @@
   {
     "id": 16,
     "title": "Ranma 1 2 Season 2 Trailer",
+    "author": "Movie Trailer",
     "thumb": "https://s2.dmcdn.net/v/YezQo1eNqCxsB9ECL/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9m0bzm",
@@ -146,6 +161,7 @@
   {
     "id": 17,
     "title": "Turn LEFTOVERS into Tasty Meals Overnight!",
+    "author": "5-Minute Recipes",
     "thumb": "https://s1.dmcdn.net/v/Yl73-1ezUdwL-xp51/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9myw3i",
@@ -155,6 +171,7 @@
   {
     "id": 18,
     "title": "The Pout-Pout Fish Trailer (2026)",
+    "author": "Movie Trailer",
     "thumb": "https://s1.dmcdn.net/v/ZHiO41ezNMJRmC-nx/x1080",
     "format_id": "hls-1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x9sd79g",
