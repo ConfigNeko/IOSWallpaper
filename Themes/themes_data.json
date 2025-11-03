@@ -1,5 +1,41 @@
 [
   {
+    "id": 7,
+    "name": "Cartoon",
+    "listFiles": [
+      {
+        "id": "Cartoon1",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/1_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/1_demo.png"
+        ]
+      },
+      {
+        "id": "Trending2",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/image%2058-3.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/Group481767.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending2/Group481896.png"
+        ]
+      },
+      {
+        "id": "Trending3",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/image%2063.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/Group481769.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending3/Group481899.png"
+        ]
+      },
+      {
+        "id": "Trending4",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/image%2064.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/Group481768.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Trending/Trending4/Group481901.png"
+        ]
+      }
+    ]
+  },{
     "id": 6,
     "name": "Trending",
     "listFiles": [
