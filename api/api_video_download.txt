@@ -322,6 +322,7 @@
   {
     "id": 11,
     "title": "Slow Cooked Chicken Stew | Recipe",
+    "author": "GoodtoKnow",
     "thumb": "https://s2.dmcdn.net/v/ZHhSI1ezVqOR1zzAa/x1080",
     "format_ids": [
       {
