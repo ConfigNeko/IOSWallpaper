@@ -1,17 +1,5 @@
 [
   {
-    "id": 7,
-    "name": "Cartoon",
-    "listFiles": [
-      {
-        "id": "Cartoon1",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/1_wallpaper.png",
-        "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/1_demo.png"
-        ]
-      }
-    ]
-  },{
     "id": 6,
     "name": "Trending",
     "listFiles": [
