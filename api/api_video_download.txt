@@ -19,7 +19,7 @@
     ],
     "thumb": "https://s2.dmcdn.net/v/SEj0p1enUPwggtF9d/x1080",
     "stream_url": "https://geo.dailymotion.com/player.html?video=x7tz8s3",
-    "duration": 221,
+    "duration": 316,
     "url": "https://www.dailymotion.com/video/x7tz8s3"
   },
   {
