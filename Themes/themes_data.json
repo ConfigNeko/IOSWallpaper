@@ -195,10 +195,10 @@
     "listFiles": [
       {
         "id": "Cartoon1",
-        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/1_wallpaper.png",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/1_wallpaper.png",
         "urlFile": [
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/1_demo.png",
-          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Aesthetic/Aesthetic1/Group481897.png"
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/1_demo.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
         ]
       }
     ]
