@@ -200,7 +200,95 @@
           "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/1_demo.png",
           "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
         ]
-      }
+      },
+      {
+        "id": "Cartoon2",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon2/2_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon2/2_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon3",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon3/3_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon3/3_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon4",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon4/4_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon4/4_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon5",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon5/5_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon5/5_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon6",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon6/6_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon6/6_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon7",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon7/7_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon7/7_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon8",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon8/8_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon8/8_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon9",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon9/9_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon9/9_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon10",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon10/10_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon10/10_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon11",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon11/11_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon11/11_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Cartoon12",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon12/12_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon12/12_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
     ]
   }
 ]
