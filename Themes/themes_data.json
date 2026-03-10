@@ -593,5 +593,91 @@
         ]
       }
     ]
+  },
+  {
+    "id": 12,
+    "name": "Neon",
+    "listFiles": [
+      {
+        "id": "Neon1",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon1/1_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon1/1_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon2",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon2/2_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon2/2_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon3",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon3/3_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon3/3_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon4",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon4/4_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon4/4_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon5",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon5/5_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon5/5_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon6",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon6/6_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon6/6_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon7",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon7/7_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon7/7_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon8",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon8/8_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon8/8_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon9",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon9/9_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon9/9_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Neon10",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon10/10_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Neon/Neon10/10_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      }
+    ]
   }
 ]
