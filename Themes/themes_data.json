@@ -763,5 +763,89 @@
         ]
       }
     ]
+  },
+  {
+    "id": 14,
+    "name": "Summer",
+    "listFiles": [
+      {
+        "id": "Summer1",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer1/1_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer1/1_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },{
+        "id": "Summer2",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer2/2_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer2/2_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },{
+        "id": "Summer3",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer3/3_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer3/3_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Summer4",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer4/4_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer4/4_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Summer5",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer5/5_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer5/5_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Summer6",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer6/6_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer6/6_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Summer7",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer7/7_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer7/7_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Summer8",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer8/8_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer8/8_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Summer9",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer9/9_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer9/9_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Summer10",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer10/10_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Summer/Summer10/10_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      }
+    ]
   }
 ]
