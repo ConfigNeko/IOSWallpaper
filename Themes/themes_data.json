@@ -924,5 +924,91 @@
         ]
       }
     ]
+  },
+  {
+    "id": 16,
+    "name": "Winter",
+    "listFiles": [
+      {
+        "id": "Winter1",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter1/1_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter1/1_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter2",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter2/2_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter2/2_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter3",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter3/3_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter3/3_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter4",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter4/4_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter4/4_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter5",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter5/5_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter5/5_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter6",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter6/6_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter6/6_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter7",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter7/7_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter7/7_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter8",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter8/8_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter8/8_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter9",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter9/9_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter9/9_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      },
+      {
+        "id": "Winter10",
+        "background": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter10/10_wallpaper.png",
+        "urlFile": [
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Winter/Winter10/10_demo_theme.png",
+          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Themes/Cartoon/Cartoon1/Group481897.png"
+        ]
+      }
+    ]
   }
 ]
