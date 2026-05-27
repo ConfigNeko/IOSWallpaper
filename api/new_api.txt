@@ -83,7 +83,7 @@
     ]
   },
   {
-    "name": "IOS 18",
+    "name": "iOS 18",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/IOS%2018%20Wallpaper_02.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/IOS%2018%20Wallpaper_01.png",
@@ -96,14 +96,14 @@
     ]
   }, 
   {
-    "name": "IOS 17",
+    "name": "iOS 17",
     "images": [
         "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Collections/hinh-nen-iphone-2-1.jpg",
 	"https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/image%20(1).png"
     ]
   }, 
   {
-    "name": "IOS 16",
+    "name": "iOS 16",
     "images": [
          "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/main/Category/Collections/2.png"
     ]
