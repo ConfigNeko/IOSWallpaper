@@ -109,7 +109,7 @@
     ]
   }, 
  {
-    "name": "iPhone 16 Collection",
+    "name": "Collections",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453966.png",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453969.png",
