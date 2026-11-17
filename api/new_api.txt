@@ -1,6 +1,5 @@
 [{
     "name": "iPhone 18 Pro Max",
-    "bg_url": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/card_lockscreen.png",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone18promax/1.jpg",
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone18promax/2.jpg",
