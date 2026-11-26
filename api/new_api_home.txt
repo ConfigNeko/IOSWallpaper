@@ -1,6 +1,6 @@
 [
 {
-    "name": "iPhone 17 Pro Max",
+    "name": "Phone 17 Pro Max",
     "bg_url": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/card_lockscreen.png",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17pro/image.png",
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "name": "iPhone 17",
+    "name": "Phone 17",
     "bg_url": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/card_lockscreen%20(1).png",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/iphone17/image.png",
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "name": "iPhone 16 Pro Max",
+    "name": "Phone 16 Pro Max",
 "bg_url": "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/bg_ios_16.png",
     "images": [
       "https://raw.githubusercontent.com/ConfigNeko/IOSWallpaper/refs/heads/main/Category/Collections/453966.png",
